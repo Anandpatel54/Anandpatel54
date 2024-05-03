@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="center">I'm a MERN Stack Developer..😎</h5>
+<h5 align="center">I'm a FULL Stack Developer..😎</h5>
 
 ###
 
